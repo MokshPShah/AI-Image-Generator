@@ -27,10 +27,6 @@ AI Image Generator is a web application built with React that allows users to ge
 - 💾 Image download functionality
 - 🕒 History of previously generated images
 
-## 🖼️ Demo
-
-[Add a screenshot or GIF of your application here]
-
 ## 🚀 Installation
 
 Follow these steps to set up the project locally:
