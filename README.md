@@ -7,7 +7,6 @@ An interactive React application that uses AI to generate images based on text p
 
 - [Overview](#overview)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Download](#download)
